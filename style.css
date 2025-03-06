@@ -90,9 +90,9 @@ body::after {
         background-position: center;
     }
 
-    /* .header {
+    .header {
         width: 300px;
-    } */
+    }
 
     .header p {
         font-size: 1.3rem;
