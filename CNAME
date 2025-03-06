@@ -1,1 +1,17 @@
 karatecouncil.com
+
+https://karatecouncil.com
+
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<title>Karate Council</title>
+<meta
+    content="Unlock your true potential with  Karate Council"
+    name="description"
+  />
+<meta content="karate, shotokan, council, karatecouncil" name="keywords" />
+<meta name="author" content="Karate Council" />
+
+<!-- favicons are here -->
+<link href="karate6.png" rel="icon" />
+<link href="karate6.png" rel="apple-touch-icon" />
