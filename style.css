@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Doto:wght@100..900&family=Pacifico&display=swap');
+
 
 body {
     margin: 0;
@@ -26,7 +28,6 @@ body::after {
 
 .header {
     text-align: center;
-    margin-bottom: 20px;
 }
 
 .header img {
@@ -70,6 +71,15 @@ body::after {
     color: #fff;
     text-shadow: 2px 2px 4px #000000;
     font-size: 30px;
+}
+
+.web-not {
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    padding: 10px 0px;
+    padding-top: 30px;
 }
 
 .footer {
